@@ -1,2 +1,2 @@
 # options
-This project implements Blach-Scholes equation for options' prices.
+This project implements Black-Scholes equation for options pricing.
